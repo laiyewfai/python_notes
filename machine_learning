@@ -10,9 +10,18 @@
 
 # Unsupervised Leanring - data is not labelled.
 
-# usage - Clustering and Dimensionality Reduction
+# usage - Clustering and Dimensionality Reduction 
 
-# assignment - K means 
+# assignment - K means clustering 
+
+https://blog.bioturing.com/2018/10/17/k-means-clustering-algorithm-and-example/
+
+# assignment - Dimensionality Reduction 
+
+# K-nearest neigbour (kNN)
+
+# PCA 
+
 
 # Reinforcement Learning 
 
